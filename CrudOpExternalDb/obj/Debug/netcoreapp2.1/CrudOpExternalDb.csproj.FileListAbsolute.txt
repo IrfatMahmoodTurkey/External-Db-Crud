@@ -1,0 +1,9 @@
+D:\Lib\CrudOpExternalDb\CrudOpExternalDb\bin\Debug\netcoreapp2.1\CrudOpExternalDb.deps.json
+D:\Lib\CrudOpExternalDb\CrudOpExternalDb\bin\Debug\netcoreapp2.1\CrudOpExternalDb.dll
+D:\Lib\CrudOpExternalDb\CrudOpExternalDb\bin\Debug\netcoreapp2.1\CrudOpExternalDb.pdb
+D:\Lib\CrudOpExternalDb\CrudOpExternalDb\obj\Debug\netcoreapp2.1\CrudOpExternalDb.csproj.CoreCompileInputs.cache
+D:\Lib\CrudOpExternalDb\CrudOpExternalDb\obj\Debug\netcoreapp2.1\CrudOpExternalDb.AssemblyInfoInputs.cache
+D:\Lib\CrudOpExternalDb\CrudOpExternalDb\obj\Debug\netcoreapp2.1\CrudOpExternalDb.AssemblyInfo.cs
+D:\Lib\CrudOpExternalDb\CrudOpExternalDb\obj\Debug\netcoreapp2.1\CrudOpExternalDb.dll
+D:\Lib\CrudOpExternalDb\CrudOpExternalDb\obj\Debug\netcoreapp2.1\CrudOpExternalDb.pdb
+D:\Lib\CrudOpExternalDb\CrudOpExternalDb\obj\Debug\netcoreapp2.1\CrudOpExternalDb.csprojAssemblyReference.cache

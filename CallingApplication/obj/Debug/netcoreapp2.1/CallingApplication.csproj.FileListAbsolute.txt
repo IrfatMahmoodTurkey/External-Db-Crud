@@ -1,0 +1,14 @@
+D:\Lib\CrudOpExternalDb\CallingApplication\bin\Debug\netcoreapp2.1\CallingApplication.deps.json
+D:\Lib\CrudOpExternalDb\CallingApplication\bin\Debug\netcoreapp2.1\CallingApplication.runtimeconfig.json
+D:\Lib\CrudOpExternalDb\CallingApplication\bin\Debug\netcoreapp2.1\CallingApplication.runtimeconfig.dev.json
+D:\Lib\CrudOpExternalDb\CallingApplication\bin\Debug\netcoreapp2.1\CallingApplication.dll
+D:\Lib\CrudOpExternalDb\CallingApplication\bin\Debug\netcoreapp2.1\CallingApplication.pdb
+D:\Lib\CrudOpExternalDb\CallingApplication\obj\Debug\netcoreapp2.1\CallingApplication.csprojAssemblyReference.cache
+D:\Lib\CrudOpExternalDb\CallingApplication\obj\Debug\netcoreapp2.1\CallingApplication.csproj.CoreCompileInputs.cache
+D:\Lib\CrudOpExternalDb\CallingApplication\obj\Debug\netcoreapp2.1\CallingApplication.AssemblyInfoInputs.cache
+D:\Lib\CrudOpExternalDb\CallingApplication\obj\Debug\netcoreapp2.1\CallingApplication.AssemblyInfo.cs
+D:\Lib\CrudOpExternalDb\CallingApplication\obj\Debug\netcoreapp2.1\CallingApplication.dll
+D:\Lib\CrudOpExternalDb\CallingApplication\obj\Debug\netcoreapp2.1\CallingApplication.pdb
+D:\Lib\CrudOpExternalDb\CallingApplication\bin\Debug\netcoreapp2.1\CrudOpExternalDb.dll
+D:\Lib\CrudOpExternalDb\CallingApplication\bin\Debug\netcoreapp2.1\CrudOpExternalDb.pdb
+D:\Lib\CrudOpExternalDb\CallingApplication\obj\Debug\netcoreapp2.1\CallingApplication.csproj.CopyComplete
